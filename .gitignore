@@ -1,0 +1,30 @@
+# ModusToolbox downloaded dependencies and generated output
+mtb_shared/
+firmware/libs/
+firmware/build/
+firmware/**/build/
+firmware/Debug/
+firmware/Release/
+firmware/.metadata/
+firmware/.settings/
+firmware/.vscode/
+firmware/.mtbLaunchConfigs/
+firmware/**/.cache/
+firmware/.ninja_*
+
+# Local release files are uploaded through GitHub Releases
+release-assets/*
+!release-assets/README.md
+
+# Generated binaries
+*.bin
+*.elf
+*.hex
+*.map
+
+# Local IDE and OS files
+*.code-workspace
+*.log
+.DS_Store
+Thumbs.db
+[Dd]esktop.ini
