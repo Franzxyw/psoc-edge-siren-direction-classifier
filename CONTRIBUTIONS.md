@@ -8,8 +8,9 @@
 - Xiang Shi
 - Weitong Lin
 
-This repository documents a team Hackathon project. It is published in Yanwei
-Xu's portfolio with full attribution to all team members.
+This repository documents a team project developed for the EESTech Challenge
+2025, Munich Local Round. It is published in Yanwei Xu's portfolio with full
+attribution to all team members.
 
 ## Yanwei Xu
 
@@ -57,5 +58,4 @@ The team jointly:
 - Reviewed every deployed model on the real board.
 - Chose reliability over the highest offline metric.
 - Developed the distance-assisted North/South strategy.
-- Selected the final model and prepared the Hackathon submission.
-
+- Selected the final model and prepared the challenge submission.

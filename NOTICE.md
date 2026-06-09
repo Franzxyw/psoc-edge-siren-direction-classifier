@@ -1,13 +1,13 @@
 # Notice and Attribution
 
-This repository contains a team Hackathon project built with Infineon hardware
-and software.
+This repository contains a team project developed for the EESTech Challenge
+2025, Munich Local Round, using Infineon hardware and software.
 
 ## Upstream Sources
 
 The firmware is derived from:
 
-- Infineon Hackathon repository:
+- Infineon challenge materials repository:
   `https://github.com/Infineon/hackathon`
 - Infineon PSOC Edge MCU DEEPCRAFT deploy-audio code example:
   `https://github.com/Infineon/mtb-example-psoc-edge-ml-deepcraft-deploy-audio`
@@ -30,4 +30,3 @@ firmware.
 
 Team-authored documentation may be quoted with attribution, but this notice
 does not override any third-party license or trademark terms.
-

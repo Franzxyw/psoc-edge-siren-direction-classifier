@@ -3,8 +3,9 @@
 An embedded Edge AI system that classifies the direction of an emergency
 vehicle siren on the Infineon PSOC Edge E84 AI Kit.
 
-This project was created during the Infineon Hackathon in Munich by team
-**1 Tag von München zur Zugspitze**:
+This project was created for the **EESTech Challenge 2025, Munich Local
+Round**, organized by EESTEC LC Munich in collaboration with Infineon
+Technologies, by team **1 Tag von München zur Zugspitze**:
 
 - Yanwei Xu
 - Xiang Shi
@@ -188,4 +189,3 @@ example and the Infineon Hackathon repository. The original Infineon EULA is
 preserved inside [`firmware/LICENSE`](./firmware/LICENSE).
 
 See [NOTICE.md](./NOTICE.md) before reusing or redistributing the firmware.
-
