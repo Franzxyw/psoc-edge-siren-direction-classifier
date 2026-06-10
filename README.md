@@ -3,7 +3,7 @@
 An embedded Edge AI system that classifies the direction of an emergency
 vehicle siren on the Infineon PSOC Edge E84 AI Kit.
 
-This project was created for the **EESTech Challenge 2025, Munich Local
+This project was created for the **EESTech Challenge 2026, Munich Local
 Round**, organized by EESTEC LC Munich in collaboration with Infineon
 Technologies, by team **1 Tag von München zur Zugspitze**:
 
