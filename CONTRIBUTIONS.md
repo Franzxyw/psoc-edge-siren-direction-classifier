@@ -9,7 +9,7 @@
 - Weitong Lin
 
 This repository documents a team project developed for the EESTech Challenge
-2025, Munich Local Round. It is published in Yanwei Xu's portfolio with full
+2026, Munich Local Round. It is published in Yanwei Xu's portfolio with full
 attribution to all team members.
 
 ## Yanwei Xu
